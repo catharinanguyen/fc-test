@@ -1,0 +1,42 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Header---------------------------------------*/
+
+#head-bg {
+    height: 800px;
+    
+    background: url('../images/header-background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.header-content{
+    padding: 180px 610px;
+    text-align: center;
+}
+
+.nav-control{
+    margin: 0px;
+    padding: 50px 450px;
+}
+
+.navbrand {
+    float: right;
+}
+
+.navbar-txt{
+    float: left;
+    margin: 0px 10px;
+}
+
+.header-content h1{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+
